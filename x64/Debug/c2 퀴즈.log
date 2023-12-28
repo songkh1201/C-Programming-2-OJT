@@ -1,0 +1,9 @@
+﻿  final_practice.c
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1236,19): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1237,19): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1238,19): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1240,9): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1247,5): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1251,15): warning C4047: '함수': 'char **'의 간접 참조 수준이 'char [3][101]'과(와) 다릅니다.
+C:\Users\skunh\source\repos\c2 퀴즈\c2 퀴즈\final_practice.c(1251,12): warning C4024: 'change': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  c2 퀴즈.vcxproj -> C:\Users\skunh\source\repos\c2 퀴즈\x64\Debug\c2 퀴즈.exe
